@@ -1,0 +1,39 @@
+name: ml_translator
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Translation packages
+  translator: ^0.1.7
+  
+  # Use a version compatible with Flutter 3.x
+  speech_to_text: ^7.0.0
+  
+  # UI and utilities
+  country_picker: ^2.0.20
+  permission_handler: ^11.0.1
+  flutter_tts: ^3.8.5
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/ml_translator_logo_speech.png"
+  adaptive_icon_background: "#050D1A"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
