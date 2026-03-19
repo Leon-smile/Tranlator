@@ -1,16 +1,31 @@
-# apptranslation
+ML Translator
+A powerful Flutter-based language translation app that breaks down communication barriers with text and voice input across 18 languages.
 
-A new Flutter project.
+🌟 Features
+Text Translation - Type or paste text for instant translation
 
-## Getting Started
+Voice Input - Speak naturally and get real-time translations
 
-This project is a starting point for a Flutter application.
+Text-to-Speech - Listen to accurate pronunciation of translated text
 
-A few resources to get you started if this is your first Flutter project:
+18 Languages - English, Spanish, French, German, Italian, Portuguese, Russian, Japanese, Korean, Chinese, Arabic, Hindi, and more
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Smart Language Swap - One-tap exchange between source and target languages
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Copy to Clipboard - Quickly save and share translations
+
+Persistent Settings - Remembers your preferred language pairs
+
+Dark/Light Theme - Seamlessly adapts to your device's theme
+
+Material Design 3 - Modern, intuitive, and beautiful interface
+
+🚀 Quick Start
+Prerequisites
+Flutter SDK (>=3.0.0)
+
+Dart SDK (>=3.0.0)
+
+Android Studio / VS Code
+
+Android SDK 21+ or iOS 12+
